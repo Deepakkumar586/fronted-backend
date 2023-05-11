@@ -22,7 +22,7 @@ const EmployeeForm = () => {
 
     console.log("FORM RESPONSE......", savedUserResponse);
 
-    navigate("/")
+    navigate("/");
   };
 
   return (
